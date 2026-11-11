@@ -1,0 +1,7 @@
+# Original mod archives already present here are preserved, never published.
+*.zip
+*.modpack
+work/
+__pycache__/
+*.pyc
+.env
